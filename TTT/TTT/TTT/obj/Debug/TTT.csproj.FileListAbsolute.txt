@@ -1,0 +1,15 @@
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\bin\Debug\TTT.exe.config
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\bin\Debug\TTT.exe
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\bin\Debug\TTT.pdb
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.csprojResolveAssemblyReference.cache
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\MainWindow.g.cs
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\App.g.cs
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT_MarkupCompile.cache
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT_MarkupCompile.lref
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\MainWindow.baml
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.g.resources
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.csproj.GenerateResource.Cache
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.csproj.CoreCompileInputs.cache
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.exe
+C:\Users\murzs\Desktop\Darklight solutions\TTT\TTT\TTT\obj\Debug\TTT.pdb
