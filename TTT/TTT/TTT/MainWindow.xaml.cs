@@ -23,13 +23,14 @@ namespace TTT
     {
         public static int gamemod = 1;
         public static bool win = false;
+        public static bool jatekoskezd = true;
         public static int playerpoint = 0, comppoint = 0;
         public static Char[,] table = new char[3, 3];
 
         public MainWindow()
         {
             InitializeComponent();
-
+            jatekoskezd = true;
             nyertelLabel.Visibility = Visibility.Hidden;
             easybutton.IsEnabled = false;
             b1.Content = " ";
@@ -716,7 +717,15 @@ namespace TTT
             b7.Content = " ";
             b8.Content = " ";
             b9.Content = " ";
-
+            if (jatekoskezd)
+            {
+                jatekoskezd = false;
+            }
+            else
+            {
+                OneRound();
+                jatekoskezd = true;
+            }
         }
 
         private void b1_Click(object sender, RoutedEventArgs e)
